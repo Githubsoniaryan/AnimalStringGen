@@ -40,11 +40,11 @@ async def gen_session(
     message, user_id: int, telethon: bool = False, old_pyro: bool = False
 ):
     if telethon:
-        ty = f"ᴛᴇʟᴇᴛʜᴏɴ"
+        ty = f"Tᴇʟᴇᴛʜᴏɴ"
     elif old_pyro:
-        ty = f"ᴩʏʀᴏɢʀᴀᴍ v1"
+        ty = f"Pʏʀᴏɢʀᴀᴍ v1"
     else:
-        ty = f"ᴩʏʀᴏɢʀᴀᴍ v2"
+        ty = f"Pʏʀᴏɢʀᴀᴍ v2"
 
     await message.reply_text(f"» ᴛʀʏɪɴɢ ᴛᴏ sᴛᴀʀᴛ {ty} sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ...")
 
@@ -231,7 +231,7 @@ async def gen_session(
                 link_preview=False,
                 parse_mode="html",
             )
-            await client(JoinChannelRequest("@FallenAssociation"))
+            await client(JoinChannelRequest("@itsRareBeautySelenaGomez"))
         else:
             string_session = await client.export_session_string()
             await client.send_message(
@@ -251,7 +251,7 @@ async def gen_session(
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴀᴠᴇᴅ ᴍᴇssᴀɢᴇs",
+                            text="Sᴀᴠᴇᴅ Mᴇssᴀɢᴇs",
                             url=f"tg://openmessage?user_id={user_id}",
                         )
                     ]
