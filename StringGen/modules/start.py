@@ -13,3 +13,5 @@ async def f_start(_, message: Message):
         disable_web_page_preview=True,
     )
     await add_served_user(message.from_user.id)
+
+
