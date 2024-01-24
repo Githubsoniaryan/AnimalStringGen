@@ -17,6 +17,8 @@ async def get_served_users() -> list:
     return users_list
 
 
+
+
 async def add_served_user(user_id: int):
     is_served = await is_served_user(user_id)
     if is_served:
