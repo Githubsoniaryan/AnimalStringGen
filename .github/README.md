@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/07e5b7d11e3a834ad3826.jpg">
+  <img src="https://telegra.ph/file/705cdb252720e516fafe7.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/StringFatherBot)**_
@@ -33,7 +33,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀ�
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/StringGenBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Githubsoniaryan/AnimalStringGen"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <details>
 <summary><h3>
@@ -75,23 +75,20 @@ Press `Ctrl+b` and then `d`
     ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
 
+### sᴜᴘᴘᴏʀᴛ
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/royalgroupop"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/itsRareBeautySelenaGomez"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-━━━━━━━━━━━━━━━━━━━━
+## sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 🚬🦋
 
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
+- [Rᴏʏᴀʟ](https://t.me/royalgroupop)
+- [Bᴇᴀᴜᴛʏ](https://t.me/itsRareBeautySelenaGomez)
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic)</b>
-- <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)</b>
-- <b>[ʟᴏɴᴀᴍɪ](https://github.com/Lonami)  ғᴏʀ  [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)</b>
 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousX1025/StringGenBot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ᴜsᴇғᴜʟ 🖤</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-━━━━━━━━━━━━━━━━━━━━
+
