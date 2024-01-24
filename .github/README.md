@@ -6,7 +6,7 @@
   <img src="https://telegra.ph/file/705cdb252720e516fafe7.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/StringFatherBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/String_sesion_op_Bot)**_
 
 ━━━━━━━━━━━━━━━━━━━━
 
