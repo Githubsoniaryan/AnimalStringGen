@@ -1,8 +1,6 @@
-━━━━━━━━━━━━━━━━━━━━
-
-<h2 align="center">
-    ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
-</h2>
+<h2 align="center">   
+    ──「◄⏤͟͞ꭙͯ͢³⋆꯭ꙶ⋆꯭ͣ⋆᭄ͫ͢🍁⃝🇦𝐍𝐈𝐌𝐀𝐋ᥫᩣ🇯𝐀𝐍𝐖𝐀𝐑𐏓꯭ ᷞ ͦ͢ ͮ ͤ𓆪🕊⃝🦋 」──  
+   </h2>  
 
 <p align="center">
   <img src="https://telegra.ph/file/705cdb252720e516fafe7.jpg">
