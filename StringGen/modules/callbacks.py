@@ -27,3 +27,5 @@ async def cb_choose(_, cq: CallbackQuery):
                 await gen_session(cq.message, cq.from_user.id, telethon=True)
         except Exception as e:
             await cq.edit_message_text(e, disable_web_page_preview=True)
+
+
